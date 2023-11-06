@@ -1,4 +1,4 @@
-import './src/scss/style.scss'
+import './style.css'
 
 import imageUrl from './src/assets/images/raccoon.jpeg'
 document.querySelector('.avatar').src = imageUrl
